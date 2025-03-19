@@ -1,0 +1,47 @@
+D:\Visual_Basic_Praktek\pertemuan 9\P9\P9\bin\Debug\P9.exe
+D:\Visual_Basic_Praktek\pertemuan 9\P9\P9\bin\Debug\P9.pdb
+D:\Visual_Basic_Praktek\pertemuan 9\P9\P9\bin\Debug\P9.xml
+D:\Visual_Basic_Praktek\pertemuan 9\P9\P9\obj\x86\Debug\WindowsApplication1.Login.resources
+D:\Visual_Basic_Praktek\pertemuan 9\P9\P9\obj\x86\Debug\WindowsApplication1.menu_utama.resources
+D:\Visual_Basic_Praktek\pertemuan 9\P9\P9\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Visual_Basic_Praktek\pertemuan 9\P9\P9\obj\x86\Debug\P9.vbproj.GenerateResource.Cache
+D:\Visual_Basic_Praktek\pertemuan 9\P9\P9\obj\x86\Debug\P9.exe
+D:\Visual_Basic_Praktek\pertemuan 9\P9\P9\obj\x86\Debug\P9.xml
+D:\Visual_Basic_Praktek\pertemuan 9\P9\P9\obj\x86\Debug\P9.pdb
+D:\Visual_Basic_Praktek\pertemuan 9\P9\P9\obj\x86\Debug\WindowsApplication1.pengguna.resources
+D:\Visual_Basic_Praktek\pertemuan 9\P9\P9\obj\x86\Debug\WindowsApplication1.pemasok.resources
+D:\Visual_Basic_Praktek\pertemuan 9\P9\P9\obj\x86\Debug\WindowsApplication1.gantipass.resources
+D:\Visual_Basic_Praktek\pertemuan 9\P9\P9\obj\x86\Debug\WindowsApplication1.barang.resources
+E:\data ricky\pertemuan 9\P9\P9\obj\x86\Debug\P9.exe
+E:\data ricky\pertemuan 9\P9\P9\obj\x86\Debug\P9.xml
+E:\data ricky\pertemuan 9\P9\P9\obj\x86\Debug\P9.pdb
+E:\data ricky\pertemuan 9\P9\P9\bin\Debug\P9.exe
+E:\data ricky\pertemuan 9\P9\P9\bin\Debug\P9.pdb
+E:\data ricky\pertemuan 9\P9\P9\bin\Debug\P9.xml
+E:\data ricky\pertemuan 9\P9\P9\obj\x86\Debug\WindowsApplication1.gantipass.resources
+E:\data ricky\pertemuan 9\P9\P9\obj\x86\Debug\WindowsApplication1.Login.resources
+E:\data ricky\pertemuan 9\P9\P9\obj\x86\Debug\WindowsApplication1.menu_utama.resources
+E:\data ricky\pertemuan 9\P9\P9\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\data ricky\pertemuan 9\P9\P9\obj\x86\Debug\WindowsApplication1.pemasok.resources
+E:\data ricky\pertemuan 9\P9\P9\obj\x86\Debug\WindowsApplication1.pengguna.resources
+E:\data ricky\pertemuan 9\P9\P9\obj\x86\Debug\P9.vbproj.GenerateResource.Cache
+E:\data ricky\pertemuan 9\P9\P9\obj\x86\Debug\WindowsApplication1.barangmasuk.resources
+E:\data ricky\pertemuan 9\P9\P9\obj\x86\Debug\WindowsApplication1.barang.resources
+E:\data ricky\pertemuan 9\P9\P9\obj\x86\Debug\WindowsApplication1.trspenjualan.resources
+E:\data ricky\pertemuan 9\P9\P9\obj\x86\Debug\WindowsApplication1.fcb.resources
+D:\pertemuan 9\P9\P9\obj\x86\Debug\P9.exe
+D:\pertemuan 9\P9\P9\obj\x86\Debug\P9.xml
+D:\pertemuan 9\P9\P9\obj\x86\Debug\P9.pdb
+D:\pertemuan 9\P9\P9\bin\Debug\P9.exe
+D:\pertemuan 9\P9\P9\bin\Debug\P9.pdb
+D:\pertemuan 9\P9\P9\bin\Debug\P9.xml
+D:\pertemuan 9\P9\P9\obj\x86\Debug\WindowsApplication1.barangmasuk.resources
+D:\pertemuan 9\P9\P9\obj\x86\Debug\WindowsApplication1.barang.resources
+D:\pertemuan 9\P9\P9\obj\x86\Debug\WindowsApplication1.gantipass.resources
+D:\pertemuan 9\P9\P9\obj\x86\Debug\WindowsApplication1.Login.resources
+D:\pertemuan 9\P9\P9\obj\x86\Debug\WindowsApplication1.menu_utama.resources
+D:\pertemuan 9\P9\P9\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\pertemuan 9\P9\P9\obj\x86\Debug\WindowsApplication1.pemasok.resources
+D:\pertemuan 9\P9\P9\obj\x86\Debug\WindowsApplication1.pengguna.resources
+D:\pertemuan 9\P9\P9\obj\x86\Debug\WindowsApplication1.trspenjualan.resources
+D:\pertemuan 9\P9\P9\obj\x86\Debug\P9.vbproj.GenerateResource.Cache
