@@ -1,0 +1,56 @@
+C:\Users\Dell\AppData\Local\Temporary Projects\ProjectRickyA\bin\Debug\ProjectRickyA.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\ProjectRickyA\bin\Debug\ProjectRickyA.pdb
+C:\Users\Dell\AppData\Local\Temporary Projects\ProjectRickyA\bin\Debug\ProjectRickyA.xml
+C:\Users\Dell\AppData\Local\Temporary Projects\ProjectRickyA\bin\Debug\MySql.Data.DLL
+C:\Users\Dell\AppData\Local\Temporary Projects\ProjectRickyA\obj\x86\Debug\ProjectRickyA.vbprojResolveAssemblyReference.cache
+C:\Users\Dell\AppData\Local\Temporary Projects\ProjectRickyA\obj\x86\Debug\ProjectRickyA.Form1.resources
+C:\Users\Dell\AppData\Local\Temporary Projects\ProjectRickyA\obj\x86\Debug\ProjectRickyA.menuutama.resources
+C:\Users\Dell\AppData\Local\Temporary Projects\ProjectRickyA\obj\x86\Debug\ProjectRickyA.Resources.resources
+C:\Users\Dell\AppData\Local\Temporary Projects\ProjectRickyA\obj\x86\Debug\ProjectRickyA.vbproj.GenerateResource.Cache
+C:\Users\Dell\AppData\Local\Temporary Projects\ProjectRickyA\obj\x86\Debug\ProjectRickyA.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\ProjectRickyA\obj\x86\Debug\ProjectRickyA.xml
+C:\Users\Dell\AppData\Local\Temporary Projects\ProjectRickyA\obj\x86\Debug\ProjectRickyA.pdb
+C:\Users\Dell\AppData\Local\Temporary Projects\ProjectRickyA\obj\x86\Debug\ProjectRickyA.item.resources
+C:\Users\Dell\AppData\Local\Temporary Projects\ProjectRickyA\obj\x86\Debug\ProjectRickyA.pemasok.resources
+C:\Users\Dell\AppData\Local\Temporary Projects\ProjectRickyA\obj\x86\Debug\ProjectRickyA.pengeluaran.resources
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.exe
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.xml
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.pdb
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.vbprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.Form1.resources
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.item.resources
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.menuutama.resources
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.pemasok.resources
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.pengeluaran.resources
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.vbproj.GenerateResource.Cache
+C:\Users\Dell\documents\visual studio 2010\Projects\ProjectRickyA\ProjectRickyA\bin\Debug\ProjectRickyA.exe
+C:\Users\Dell\documents\visual studio 2010\Projects\ProjectRickyA\ProjectRickyA\bin\Debug\ProjectRickyA.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\ProjectRickyA\ProjectRickyA\bin\Debug\ProjectRickyA.xml
+C:\Users\Dell\documents\visual studio 2010\Projects\ProjectRickyA\ProjectRickyA\bin\Debug\MySql.Data.DLL
+C:\Users\Dell\documents\visual studio 2010\Projects\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.penjualan.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.users.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.gantipassword.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.lppendapatan.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.lppengeluaran.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.lppenjualan.resources
+D:\kuliah\UAS visual basic\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.exe
+D:\kuliah\UAS visual basic\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.xml
+D:\kuliah\UAS visual basic\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.pdb
+D:\kuliah\UAS visual basic\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.vbprojResolveAssemblyReference.cache
+D:\kuliah\UAS visual basic\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.Form1.resources
+D:\kuliah\UAS visual basic\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.gantipassword.resources
+D:\kuliah\UAS visual basic\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.item.resources
+D:\kuliah\UAS visual basic\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.lppendapatan.resources
+D:\kuliah\UAS visual basic\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.lppengeluaran.resources
+D:\kuliah\UAS visual basic\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.lppenjualan.resources
+D:\kuliah\UAS visual basic\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.menuutama.resources
+D:\kuliah\UAS visual basic\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.Resources.resources
+D:\kuliah\UAS visual basic\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.pemasok.resources
+D:\kuliah\UAS visual basic\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.pengeluaran.resources
+D:\kuliah\UAS visual basic\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.penjualan.resources
+D:\kuliah\UAS visual basic\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.users.resources
+D:\kuliah\UAS visual basic\ProjectRickyA\ProjectRickyA\obj\x86\Debug\ProjectRickyA.vbproj.GenerateResource.Cache
+D:\kuliah\UAS visual basic\ProjectRickyA\ProjectRickyA\bin\Debug\ProjectRickyA.exe
+D:\kuliah\UAS visual basic\ProjectRickyA\ProjectRickyA\bin\Debug\ProjectRickyA.pdb
+D:\kuliah\UAS visual basic\ProjectRickyA\ProjectRickyA\bin\Debug\ProjectRickyA.xml
